@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "Auracelle Charlie — Bath Spa Prototype (Notebook)"
+authors:
+  - family-names: "Evans"
+    given-names: "Grace-Alice"
+date-released: "2026-03-02"
+type: software
+license: MIT
+repository-code: "https://github.com/<your-org-or-user>/auracelle-charlie-bsu-notebook"
+abstract: >
+  Auracelle Charlie is a governance-focused wargaming research instrument implemented as a prototype notebook,
+  supporting policy stress-testing, evidence capture, and after-action review workflows under the AGPO framework.
